@@ -69,6 +69,7 @@
     "jshint-stylish": "^2.2.0",
     "load-grunt-config": "^0.19.2",
     "lodash": "^4.13.1",
+    "nyc": "^11.1.0",
     "seed-random": "^2.2.0",
     "time-grunt": "^1.0.0"
   },
